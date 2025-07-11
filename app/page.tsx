@@ -1,3 +1,5 @@
+"use client"
+
 import { RadixProgress } from "@/app/components/ui/radix-progress"
 import Typewriter from "./components/ui/typewriter";
 
